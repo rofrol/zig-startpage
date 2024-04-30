@@ -12,21 +12,19 @@ github:
 [pulls](https://github.com/ziglang/zig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) |
 [issues](https://github.com/ziglang/zig/issues)
 
-## News
-
+news:
 [discord](https://discord.com/channels/605571803288698900/1024381264213594242) |
 [ziggit](https://ziggit.dev/) |
-
-- https://twitter.com/search?q=ziglang&src=typed_query&f=live
-- https://www.reddit.com/r/Zig/new/
-- https://discu.eu/weekly/zig/
-- https://lobste.rs/search?q=zig&what=comments&order=newest
-- https://lobste.rs/~andrewrk/threads
-- https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=zig&sort=byPopularity&type=all
-- https://zig.news/latest
-- https://dev.to/t/zig/latest
-- https://medium.com/tag/zig
-- https://stackoverflow.com/questions/tagged/zig?tab=Newest
+[twitter](https://twitter.com/search?q=ziglang&src=typed_query&f=live) |
+[reddit](https://www.reddit.com/r/Zig/new/) |
+[discu.eu](https://discu.eu/weekly/zig/) |
+[lobste.rs](https://lobste.rs/search?q=zig&what=comments&order=newest) |
+[lobster.rs andrewrk](https://lobste.rs/~andrewrk/threads) |
+[hn](https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=zig&sort=byPopularity&type=all) |
+[zig.news](https://zig.news/latest) |
+[dev.to](https://dev.to/t/zig/latest) |
+[medium.com](https://medium.com/tag/zig) |
+[so](https://stackoverflow.com/questions/tagged/zig?tab=Newest)
 
 ## More documentation
 
