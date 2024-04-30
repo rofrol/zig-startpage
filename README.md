@@ -26,44 +26,36 @@ news:
 [medium.com](https://medium.com/tag/zig) |
 [so](https://stackoverflow.com/questions/tagged/zig?tab=Newest)
 
-## More documentation
+more docs:
+[zig.guide](https://zig.guide/) |
+[openmymind.net](https://www.openmymind.net/learning_zig/)
 
-- https://zig.guide/
-- https://www.openmymind.net/learning_zig/
+code examples:
+[tr1ckydev/zig_guides](https://github.com/tr1ckydev/zig_guides) |
+[zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook)
 
-## Code examples
+code search:
+[1](https://sourcegraph.com/search?q=context:global+lang:Zig+&patternType=keyword&sm=0) |
+[2](https://sourcegraph.com/search?q=context:global++lang:zig+-repo:.*/bun+-file:build.zig+std.sort.sort&patternType=standard&sm=1&groupBy=repo) |
+[3](https://sourcegraph.com/search?q=context:global++lang:zig+-repo:.*/bun+-repo:.*/zig+-file:build.zig+staticbitset&patternType=standard&sm=1&groupBy=repo) |
+[4](https://sourcegraph.com/search?q=context:global+repo:%5Egithub%5C.com/ziglang/zig%24+socket+type:symbol+lang:zig&patternType=standard&sm=1&groupBy=path)
 
-- https://github.com/tr1ckydev/zig_guides
-- https://github.com/zigcc/zig-cookbook
+blogs:
+[hexops](https://devlog.hexops.com/) |
+[zig-bits-01](https://blog.orhun.dev/zig-bits-01/)
 
-## Code search
+other:
 
-- https://sourcegraph.com/search?q=context:global+lang:Zig+&patternType=keyword&sm=0
-- https://sourcegraph.com/search?q=context:global++lang:zig+-repo:.*/bun+-file:build.zig+std.sort.sort&patternType=standard&sm=1&groupBy=repo
-- https://sourcegraph.com/search?q=context:global++lang:zig+-repo:.*/bun+-repo:.*/zig+-file:build.zig+staticbitset&patternType=standard&sm=1&groupBy=repo
-- https://sourcegraph.com/search?q=context:global+repo:%5Egithub%5C.com/ziglang/zig%24+socket+type:symbol+lang:zig&patternType=standard&sm=1&groupBy=path
+[youtube](https://www.youtube.com/results?search_query=ziglang&sp=CAI%253D) |
+[vimeo andrewrk](https://vimeo.com/andrewrk) |
+[/r/programming](https://www.reddit.com/r/programming/search/?q=zig&sort=top&t=month) |
+[milestone](https://milestone.ziglang.cc/) |
+[track catdevnull/awesome-zig](https://www.trackawesomelist.com/catdevnull/awesome-zig/) |
+[libhunt](https://www.libhunt.com/l/zig/topic/zig) |
+[nikiv.dev](https://wiki.nikiv.dev/programming-languages/zig/) |
+[zig-companies](https://github.com/rofrol/zig-companies)
 
-## Blogs
-
-- https://devlog.hexops.com/
-- https://blog.orhun.dev/zig-bits-01/
-
-## Other
-
-- https://www.youtube.com/results?search_query=ziglang&sp=CAI%253D
-- https://vimeo.com/andrewrk
-
-- https://www.reddit.com/r/programming/search/?q=zig&sort=top&t=month
-- https://milestone.ziglang.cc/
-
-- https://www.trackawesomelist.com/catdevnull/awesome-zig/
-- https://www.libhunt.com/l/zig/topic/zig
-- https://wiki.nikiv.dev/programming-languages/zig/
-
-## Raylib
-
-- https://discord.com/channels/605571803288698900/1231052356108685343/1231191507256606730
-- https://discord.com/channels/605571803288698900/1232024500502134806/1232121212772155423
-
-- https://github.com/rofrol/zig-companies
+raylib:
+[1](https://discord.com/channels/605571803288698900/1231052356108685343/1231191507256606730) |
+[2](https://discord.com/channels/605571803288698900/1232024500502134806/1232121212772155423)
 
