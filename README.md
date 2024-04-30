@@ -1,10 +1,18 @@
 # zig-startpage
 
-docs: [docs](https://ziglang.org/documentation/master/) | [docs std](https://ziglang.org/documentation/master/std/) | [release notes](https://ziglang.org/download/0.12.0/release-notes.html)
+docs:
+[docs](https://ziglang.org/documentation/master/) |
+[docs std](https://ziglang.org/documentation/master/std/) |
+[release notes](https://ziglang.org/download/0.12.0/release-notes.html)
 
-udemy: [1](https://www.udemy.com/course/draft/4874656/learn/lecture/33883594) | [2](https://www.udemy.com/course/draft/5340712/learn/lecture/38367172)
+udemy:
+[1](https://www.udemy.com/course/draft/4874656/learn/lecture/33883594) |
+[2](https://www.udemy.com/course/draft/5340712/learn/lecture/38367172)
 
-github: [commits](https://github.com/ziglang/zig/commits/master/) | [pulls](https://github.com/ziglang/zig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) | [issues](https://github.com/ziglang/zig/issues)
+github:
+[commits](https://github.com/ziglang/zig/commits/master/) |
+[pulls](https://github.com/ziglang/zig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) |
+[issues](https://github.com/ziglang/zig/issues)
 
 ## News
 
