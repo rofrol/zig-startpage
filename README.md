@@ -24,7 +24,7 @@ news:
 [zig.news](https://zig.news/latest) |
 [dev.to](https://dev.to/t/zig/latest) |
 [medium.com](https://medium.com/tag/zig) |
-[so](https://stackoverflow.com/questions/tagged/zig?tab=Newest)
+[stackoverflow.com](https://stackoverflow.com/questions/tagged/zig?tab=Newest)
 
 more docs:
 [zig.guide](https://zig.guide/) |
