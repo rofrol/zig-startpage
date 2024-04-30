@@ -44,7 +44,8 @@ code search:
 
 blogs:
 [hexops](https://devlog.hexops.com/) |
-[zig-bits-01](https://blog.orhun.dev/zig-bits-01/)
+[zig-bits-01](https://blog.orhun.dev/zig-bits-01/) |
+[nmichaels.org](https://www.nmichaels.org/zig/)
 
 other:
 [youtube](https://www.youtube.com/results?search_query=ziglang&sp=CAI%253D) |
