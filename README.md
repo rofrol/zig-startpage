@@ -3,6 +3,8 @@ docs:
 [docs std](https://ziglang.org/documentation/master/std/) |
 [release notes](https://ziglang.org/download/0.12.0/release-notes.html)
 
+exercizes: [exercism](https://exercism.org/tracks/zig)
+
 udemy:
 [1](https://www.udemy.com/course/draft/4874656/learn/lecture/33883594) |
 [2](https://www.udemy.com/course/draft/5340712/learn/lecture/38367172)
