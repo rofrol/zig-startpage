@@ -45,7 +45,6 @@ blogs:
 [zig-bits-01](https://blog.orhun.dev/zig-bits-01/)
 
 other:
-
 [youtube](https://www.youtube.com/results?search_query=ziglang&sp=CAI%253D) |
 [vimeo andrewrk](https://vimeo.com/andrewrk) |
 [/r/programming](https://www.reddit.com/r/programming/search/?q=zig&sort=top&t=month) |
