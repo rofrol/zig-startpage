@@ -2,11 +2,11 @@
 
 ## Documentation
 
-- https://ziglang.org/documentation/master/
-- https://ziglang.org/documentation/master/std/
-- https://ziglang.org/download/0.12.0/release-notes.html
-- https://www.udemy.com/course/draft/4874656/learn/lecture/33883594
-- https://www.udemy.com/course/draft/5340712/learn/lecture/38367172
+[docs](https://ziglang.org/documentation/master/) [docs std](https://ziglang.org/documentation/master/std/) [release notes](https://ziglang.org/download/0.12.0/release-notes.html)
+
+## Udemy Courses
+
+[1](https://www.udemy.com/course/draft/4874656/learn/lecture/33883594) [2](https://www.udemy.com/course/draft/5340712/learn/lecture/38367172)
 
 ## Zig github
 
