@@ -1,5 +1,3 @@
-# zig-startpage
-
 docs:
 [docs](https://ziglang.org/documentation/master/) |
 [docs std](https://ziglang.org/documentation/master/std/) |
