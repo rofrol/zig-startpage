@@ -20,7 +20,7 @@ news:
 [discu.eu](https://discu.eu/weekly/zig/) |
 [lobste.rs](https://lobste.rs/search?q=zig&what=comments&order=newest) |
 [lobster.rs andrewrk](https://lobste.rs/~andrewrk/threads) |
-[hn](https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=zig&sort=byPopularity&type=all) |
+[hacker news](https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=zig&sort=byPopularity&type=all) |
 [zig.news](https://zig.news/latest) |
 [dev.to](https://dev.to/t/zig/latest) |
 [medium.com](https://medium.com/tag/zig) |
