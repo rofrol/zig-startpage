@@ -4,12 +4,13 @@ docs: [docs](https://ziglang.org/documentation/master/) | [docs std](https://zig
 
 udemy: [1](https://www.udemy.com/course/draft/4874656/learn/lecture/33883594) | [2](https://www.udemy.com/course/draft/5340712/learn/lecture/38367172)
 
-Zig github: [commits](https://github.com/ziglang/zig/commits/master/) | [pulls](https://github.com/ziglang/zig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) | [issues](https://github.com/ziglang/zig/issues)
+github: [commits](https://github.com/ziglang/zig/commits/master/) | [pulls](https://github.com/ziglang/zig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) | [issues](https://github.com/ziglang/zig/issues)
 
 ## News
 
-- https://discord.com/channels/605571803288698900/1024381264213594242
-- https://ziggit.dev/
+[discord](https://discord.com/channels/605571803288698900/1024381264213594242) |
+[ziggit](https://ziggit.dev/) |
+
 - https://twitter.com/search?q=ziglang&src=typed_query&f=live
 - https://www.reddit.com/r/Zig/new/
 - https://discu.eu/weekly/zig/
