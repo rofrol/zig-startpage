@@ -49,7 +49,8 @@ blogs:
 
 other:
 [youtube](https://www.youtube.com/results?search_query=ziglang&sp=CAI%253D) |
-[vimeo andrewrk](https://vimeo.com/andrewrk) |
+[twitch Andrew Kelley](https://www.twitch.tv/andrewrok) |
+[vimeo Andrew Kelley](https://vimeo.com/andrewrk) |
 [r/programming](https://www.reddit.com/r/programming/search/?q=zig&sort=top&t=month) |
 [milestone](https://milestone.ziglang.cc/) |
 [track catdevnull/awesome-zig](https://www.trackawesomelist.com/catdevnull/awesome-zig/) |
