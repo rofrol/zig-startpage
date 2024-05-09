@@ -56,7 +56,7 @@ other:
 [track catdevnull/awesome-zig](https://www.trackawesomelist.com/catdevnull/awesome-zig/) |
 [libhunt](https://www.libhunt.com/l/zig/topic/zig) |
 [nikiv.dev](https://wiki.nikiv.dev/programming-languages/zig/) |
-[zig-companies](https://github.com/rofrol/zig-companies)
+[zig-companies](https://github.com/rofrol/zig-companies) | [learning Zig in Polish](https://rofrol.github.io/learning-zig-karlseguin/)
 
 raylib:
 [1](https://discord.com/channels/605571803288698900/1231052356108685343/1231191507256606730) |
