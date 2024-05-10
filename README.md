@@ -15,7 +15,8 @@ news:
 [zig.news](https://zig.news/latest) |
 [dev.to](https://dev.to/t/zig/latest) |
 [medium.com](https://medium.com/tag/zig) |
-[stackoverflow.com](https://stackoverflow.com/questions/tagged/zig?tab=Newest)
+[stackoverflow.com](https://stackoverflow.com/questions/tagged/zig?tab=Newest) |
+[github trending](https://github.com/trending/zig?since=monthly&spoken_language_code=en)
 
 docs:
 [docs](https://ziglang.org/documentation/master/) |
