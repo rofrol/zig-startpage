@@ -1,11 +1,12 @@
 github:
 [commits](https://github.com/ziglang/zig/commits/master/) |
-[pulls](https://github.com/ziglang/zig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc) |
-[issues](https://github.com/ziglang/zig/issues)
+[issues](https://github.com/ziglang/zig/issues) |
+[pulls](https://github.com/ziglang/zig/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc)
 
 news:
 [discord](https://discord.com/channels/605571803288698900/1024381264213594242) |
 [ziggit](https://ziggit.dev/) |
+[ziggit andrewrk](https://ziggit.dev/u/andrewrk/activity) |
 [twitter](https://twitter.com/search?q=ziglang&src=typed_query&f=live) |
 [reddit](https://www.reddit.com/r/Zig/new/) |
 [discu.eu](https://discu.eu/weekly/zig/) |
