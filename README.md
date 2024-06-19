@@ -36,7 +36,8 @@ more docs:
 
 code examples:
 [tr1ckydev/zig_guides](https://github.com/tr1ckydev/zig_guides) |
-[zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook)
+[zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook) |
+[zig-common-tasks](https://renatoathaydes.github.io/zig-common-tasks/)
 
 code search:
 [1](https://sourcegraph.com/search?q=context:global+lang:Zig+&patternType=keyword&sm=0) |
