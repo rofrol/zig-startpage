@@ -7,7 +7,7 @@ news:
 [discord](https://discord.com/channels/605571803288698900/1024381264213594242) |
 [ziggit](https://ziggit.dev/) |
 [ziggit andrewrk](https://ziggit.dev/u/andrewrk/activity) |
-[twitter](https://twitter.com/search?q=ziglang&src=typed_query&f=live) |
+[x.com](https://x.com/search?q=ziglang&src=typed_query&f=live) |
 [reddit](https://www.reddit.com/r/Zig/new/) |
 [discu.eu](https://discu.eu/weekly/zig/) |
 [lobste.rs](https://lobste.rs/search?q=zig&what=comments&order=newest) |
