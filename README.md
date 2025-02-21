@@ -22,6 +22,7 @@ news:
 [andrew's mastodon](https://mastodon.social/@andrewrk)
 [kristoff's mastodon](https://hachyderm.io/@kristoff)
 [kristoff's blog](https://kristoff.it/blog)
+[mitchellh's mastodon](https://hachyderm.io/@mitchellh)
 
 docs:
 [docs](https://ziglang.org/documentation/master/) |
