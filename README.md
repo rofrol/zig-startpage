@@ -18,6 +18,10 @@ news:
 [medium.com](https://medium.com/tag/zig) |
 [stackoverflow.com](https://stackoverflow.com/questions/tagged/zig?tab=Newest) |
 [github trending](https://github.com/trending/zig?since=monthly&spoken_language_code=en)
+[zig devlog](https://ziglang.org/devlog)
+[andrew's mastodon](https://mastodon.social/@andrewrk)
+[kristoff's mastodon](https://hachyderm.io/@kristoff)
+[kristoff's blog](https://kristoff.it/blog)
 
 docs:
 [docs](https://ziglang.org/documentation/master/) |
