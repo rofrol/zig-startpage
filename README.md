@@ -8,7 +8,7 @@ news:
 [ziggit](https://ziggit.dev/) |
 [ziggit andrewrk](https://ziggit.dev/u/andrewrk/activity) |
 [x.com](https://x.com/search?q=ziglang&src=typed_query&f=live) |
-[reddit](https://www.reddit.com/r/Zig/new/) |
+[reddit](https://www.reddit.com/r/Zig/top/?t=month) |
 [discu.eu](https://discu.eu/weekly/zig/) |
 [lobste.rs](https://lobste.rs/search?q=zig&what=comments&order=newest) |
 [lobster.rs andrewrk](https://lobste.rs/~andrewrk/threads) |
